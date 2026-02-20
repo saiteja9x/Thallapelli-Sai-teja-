@@ -1,0 +1,29 @@
+#countlabel{
+  font-size: 6em;
+  text-align: center;
+  display: block;
+  font-family: 'Times New Roman', Times, serif;
+}
+.btncount{
+  text-align: center;
+}
+button{
+  padding: 15px 20px;
+  background-color: lightskyblue;
+  color: white;
+  cursor: pointer;
+  margin-left: 10px;
+  border-radius: 0.54em;
+  transition: 0.3s;
+  
+  
+  
+  
+}
+button:hover{
+  background-color: silver;
+  transform: scale(1.1);
+  box-shadow: 5px 5px 0px gray;
+  text-shadow: 5px 1px 5px black;
+  
+}

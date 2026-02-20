@@ -1,13 +1,14 @@
-# Thallapelli-Sai-teja-
-# Thallapelli Sai Teja
+ # Thallapelli Sai Teja
 
 ## About Me
 I am a B.Tech student learning Web Development.
 
-##learning Skills like:
+## Learning Skills
 - HTML
 - CSS
 - JavaScript
 
+## About My Journey
+I am just a beginner. I want to improve my skills and prove myself.
 
-iam just a beginner...... i need to prove myself and i need to improve alot ...who told me that you cannot do ....but I show what iam i..
+Some people said I cannot do it, but I will show what I am capable of.
